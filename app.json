@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Authentication",
+    "slug": "Authentication",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Authentication"
+}
